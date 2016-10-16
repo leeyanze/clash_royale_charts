@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"create":true,"guestpath":"/var/www","hostpath":"E:/vagrant/clash/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/vagrant/clash","disabled":false,"__vagrantfile":true}}}
